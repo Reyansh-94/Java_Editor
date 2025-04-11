@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h2 {
+	margin: 50px 0 0 300px;
+}
+form {
+	margin: 50px 0 0 300px;
+}
+
+p {
+	margin: 50px 0 0 250px;
+	font-size: 1.8rem;
+	color: blue;
+	font-weight: bold;
+	font-style: italic;
+}
+	
